@@ -1,0 +1,14 @@
+{
+  "name": "silverfit-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "실버핏 AI - 노인 맞춤형 운동 가이드 모바일 웹앱(PWA) 시제품",
+  "scripts": {
+    "start": "npx serve -l 8080 .",
+    "test": "node tests/run.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
